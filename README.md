@@ -36,3 +36,11 @@ The architecture of this project is designed to handle and process real-time dat
   - **Glue Catalog** as a central repository for metadata  
   - **EC2** for running my application  
   - **Apache Kafka** for stream processing
+
+---
+
+## Contact 
+
+For any questions, feedback, or collaboration opportunities, feel free to contact me.
+
+📧 **Email:** [lahbouchi.hanae@gmail.com](mailto:lahbouchi.hanae@gmail.com)
