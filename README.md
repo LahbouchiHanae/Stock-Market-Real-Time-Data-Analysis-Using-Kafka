@@ -37,6 +37,11 @@ The architecture of this project is designed to handle and process real-time dat
   - **Glue Catalog** as a central repository for metadata  
   - **EC2** for hosting the Kafka application
 
+## Project Demo
+
+![Video Demo](https://github.com/LahbouchiHanae/Stock-Market-Real-Time-Data-Analysis-Using-Kafka/blob/main/Demo.gif)
+
+
 ---
 
 ## Contact 
