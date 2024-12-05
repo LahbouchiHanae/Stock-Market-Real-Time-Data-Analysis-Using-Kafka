@@ -29,13 +29,13 @@ The architecture of this project is designed to handle and process real-time dat
 ## Technologies Used
 
 - **Python**: Scripting language used for creating Kafka producer and consumer scripts.
+- **Apache Kafka** for stream processing
 - **Amazon Web Services (AWS) Services**:  
   - **S3** for data storage  
   - **Amazon Athena** for SQL queries on data stored in S3  
   - **Glue Crawler** for data cataloging  
   - **Glue Catalog** as a central repository for metadata  
-  - **EC2** for running my application  
-  - **Apache Kafka** for stream processing
+  - **EC2** for running my application
 
 ---
 
